@@ -1,1 +1,3 @@
-# CIS420
+Cardiac resynchronization therapy (CRT) is effective in approximately 7 out of 10 patients which means it is not the solution for everyone with advanced heart failure. Predicting the outcome of CRT using machine learning algorithms can help to identify trends and correlations which may be useful to determine whether CRT will actually be beneficial for a patient or if a different course of action should be taken. Selecting individuals to receive the procedure which data suggests will improve from CRT will contribute toward improving the success rate of CRT.
+
+This repository was created by Justin Walt and Ian Dominski.
